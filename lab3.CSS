@@ -1,0 +1,8 @@
+.image-preview img {
+    border: 30px solid #ffefd5; /* light pink */
+    border-top: 30px solid skyblue; /* sky blue */
+    border-left: 30px solid lightgreen; /* light green */
+    border-right: 30px solid lightpink; /* light pink */
+  }
+  
+  
